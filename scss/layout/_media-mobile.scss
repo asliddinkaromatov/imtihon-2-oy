@@ -1,0 +1,207 @@
+@media (max-width:767px){
+     .google{
+        max-width: 400px !important;
+        a{
+            margin-left: 120px !important;
+            img{
+                
+            }
+        }
+
+        .button{
+            display: none;
+        }
+
+     }
+    .google_list{
+      display: none;
+    }
+
+
+    .google-togler{
+        display: block;
+    }
+
+
+    .scooter{
+        background-image: url(/img/Bitmap.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        max-width: 400px !important;
+        height: 650px !important;
+        margin: 0 auto !important;
+        margin-top: 100px !important;
+         h2{
+        margin: 0 auto;
+        max-width: 271px;
+        text-align: center;
+        font-size: 40px;
+        padding-top: 80px !important;
+        }
+        .scooter_img{
+            display: none;
+        }
+        p{
+            text-align: center;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        padding-top: 20px;
+        max-width: 311px;
+        font-size: 14px;
+        font-family: 'Lexend Deca';
+        }
+        .scooter_img2{
+            top: 460px;
+            left: -300px;
+        }
+        a{
+        margin: 0 auto !important;
+        margin-left: 120px !important;
+        }
+    }
+    .apple_content{
+        flex-direction: column;
+        gap: 70px;
+       margin: 0 auto !important;
+       max-width: 311px !important;
+      margin-top: 100px !important;
+
+      .apple_img{
+       display: none;
+       }
+        .apple-div{
+            .apple_group img{
+                padding: 0 !important;
+                padding-bottom: 50px !important;
+            }
+            .group_con{
+                h3{
+                    margin-left:60px !important;
+                }
+                p{
+                    text-align: center !important;
+                }
+            }
+        }
+    }
+
+
+    .more_content{
+        margin: 0 auto;
+        
+    }
+    .more_content-indate{
+        padding: 0 !important;
+        padding-top: 250px !important;
+        margin: 0 auto !important;
+        margin-top: 100px;
+        margin-bottom: 164px !important;
+        align-items: center;
+        background-size: 100vh !important;
+        background-position: top 10px left -60px !important ;
+        h3{
+            text-align: center;
+            font-size: 32px !important;
+            max-width: 311px !important;
+        }
+        p{
+            text-align: center;
+            font-size: 15px !important;
+            max-width: 311px !important;
+        }
+        a{
+            margin-left: 80px;
+            margin-bottom: 100px;
+        }
+
+    }
+    .more_content-indate2{
+        padding: 0 !important;
+        padding-top: 300px !important;
+        margin: 0  auto!important;
+        margin-top: 50px;
+        margin-bottom: 304px !important;
+        background-size: 100vh !important;
+        background-position: top 40px right   !important ;
+        h3{
+            text-align: center;
+            font-size: 32px !important;
+            max-width: 251px !important;
+        }
+        p{
+            text-align: center;
+            font-size: 15px !important;
+            max-width: 311px !important;
+    }
+    a{
+        margin-left: 80px;
+    }
+   }
+    .more_content-indate3{
+        padding: 0 !important;
+        padding-top: 300px !important;
+        margin: 0  auto!important;
+        margin-top: 50px;
+        margin-bottom: 294px !important;
+        background-size: 100vh !important;
+        background-position: top  left  !important ;
+        h3{
+            text-align: center;
+            font-size: 32px !important;
+            max-width: 251px !important;
+        }
+        p{
+            text-align: center;
+            font-size: 15px !important;
+            max-width: 311px !important;
+    }
+    a{
+        margin-left: 80px;
+       
+    }
+    }
+   
+    .sigin__card{
+        margin: 0 !important;
+        height: 320px;
+        padding:0 !important;
+        background-image:url(../img/Group\ 220.png);
+        margin-top: 100px;
+    }
+      .card-h2{
+        text-align: center;
+        padding-top: 30px;
+      }
+    .sigin__link{
+        margin-top: 100px !important;
+    }
+
+    .footer{
+        flex-direction: column;
+        gap: 50px;
+        a{
+            img{
+                margin: 0 auto;
+            }
+        }
+        .footer_ul{
+            margin: 0 auto;
+            .footer_list{
+                flex-direction: column;
+                gap: 16px;
+                padding: 0 !important;
+            }
+        }
+
+        .footer_img{
+            margin: 0 auto;
+            margin-top: 30px;
+        }
+    }
+}
+
+
+
+
+
+

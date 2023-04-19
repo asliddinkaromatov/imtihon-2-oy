@@ -1,0 +1,45 @@
+.apple_content{
+    margin-top:160px ;
+    display: flex;
+   gap: 30px;
+   position: relative;
+   
+  
+}
+.apple_img{
+    position: absolute;
+    z-index: -100;
+    top: 40px;
+    left: -150px;
+}
+.apple_content:first-child{
+    margin-left: 100px;
+}
+.apple-div{
+    max-width: 350px;
+    margin:0;
+ display: flex;
+flex-direction: column;
+text-align: start;
+     
+}
+
+.apple-div img{
+padding-right:320px ;
+}
+.apple-div h3{
+    font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: -1.07143px;
+padding-bottom: 27px;
+color: $font-color-h;
+}
+.apple-div p{
+    font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+color: $font-color;
+}

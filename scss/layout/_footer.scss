@@ -1,0 +1,38 @@
+.footer{
+    background-color: $background;
+    display: flex;
+ align-items: center;
+ padding: 36px 0px;
+ justify-content: space-between;
+ 
+  
+ img{
+    margin-left: -80px;
+ }
+
+
+ .footer_ul{
+  display: flex;
+  margin-left: -200px;
+    .footer_list{
+        list-style: none;
+        display: flex;
+        gap: 32px;
+        .footer_link{
+            display: flex;
+            a{
+                text-decoration: none;
+                color: $font-color-h;
+                display: flex;
+            }
+        }
+    }
+ }
+
+ .footer_img{
+    margin-right: 100px;
+       a{
+        text-decoration: none;
+    }
+ }
+}

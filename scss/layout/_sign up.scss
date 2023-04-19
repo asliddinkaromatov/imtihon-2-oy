@@ -1,0 +1,69 @@
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+  
+  .sigin__card {
+    background-image: url(/img/Mask.png);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    max-width: 1440px !important;
+    display: flex;
+    align-items: center;
+   margin-top: 150px;
+   padding: 100px 10px 63px 10px;
+ 
+ flex-wrap: wrap;
+   .card-h2{
+
+    h2 {
+      max-width: 375px;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 48px;
+      line-height: 48px;
+      letter-spacing: -2.14286px;
+      color: #ffffff;
+    }
+   }
+    .sigin__link {
+      display: flex;
+      gap: 20px;
+      .sigin__link__item {
+        display: flex;
+        background: #e5ecf4;
+        border-radius: 4px;
+        width: 186px;
+        height: 56px;
+        text-decoration: none;
+        gap: 11px;
+        img {
+          width: 24px;
+          height: 21px;
+          align-items: center;
+          margin: 20px 0 0 16px;
+        }
+        .sigin__text {
+          h4 {
+            margin-top: 8px;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 10px;
+            line-height: 15px;
+            letter-spacing: -0.446429px;
+            color: #495567;
+            text-decoration: none;
+          }
+          h3 {
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 24px;
+            letter-spacing: -0.892857px;
+            color: #495567;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }

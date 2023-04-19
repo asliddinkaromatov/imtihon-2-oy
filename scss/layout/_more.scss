@@ -1,0 +1,113 @@
+.more_content{
+    display: flex;
+    margin-top: 147px;
+    align-items: center;
+    margin-bottom: 300px;
+   
+    .more_content-indate{
+       padding-right:800px ;
+        background-image: url(/img/Group\ 15.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: right -380px center;
+        height: 445px;
+        margin-left: 165px;
+        margin-right: 0;
+    
+        h3{
+            font-weight: 700;
+        font-size: 48px;
+        line-height: 48px;
+        letter-spacing: -2.14286px;
+        color: $font-color-h;
+        padding-bottom: 24px;
+          padding-top: 50px;
+          margin: 0;
+          max-width: 400px;
+        }
+        p{
+            font-family: 'Lexend Deca';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        color: $font-color;
+        margin-bottom: 54px;
+        max-width: 400px;
+        
+        }
+    
+    }
+
+}
+
+.more_content-indate2{
+    background-image: url(/img/Group\ 14.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left -400px center;
+   height: 445px;
+   display: flex;
+   flex-direction: column;
+margin-right: 130px;
+margin-left: 0;
+padding-left: 900px;
+
+
+    h3{
+        max-width: 400px;
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+letter-spacing: -2.14286px;
+color:$font-color-h ;
+padding-bottom: 24px;
+padding-top: 50px;
+
+    }
+    p{
+font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+color: $font-color;
+max-width: 400px;
+padding-bottom: 54px;
+    }
+    a{
+      margin-left: 0;  
+    }
+}
+
+.more_content-indate3{
+    background-image: url(/img/Group\ 18.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right -400px center;
+  height: 445px;
+  padding-right:900px ;
+margin-left: 165px;
+  h3{
+    font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+letter-spacing: -2.14286px;
+color: $font-color-h;
+max-width: 400px;
+padding-bottom: 24px;
+  }
+  p{
+    font-family: 'Lexend Deca';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+color:$font-color;
+max-width: 400px;
+padding-bottom: 54px;
+  }
+}
+
+
